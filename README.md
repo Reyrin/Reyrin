@@ -16,7 +16,7 @@
 
 #### Front-end:
 ```json
-["React", "Next", "Vite", "RTK Query", "Zustand", "Tailwind", "etc"]
+["React", "Next", "Vite", "Redux", "RTK Query", "Zustand", "Tailwind", "etc"]
 ```
 
 #### Back-end:
